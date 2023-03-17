@@ -328,7 +328,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/EchoToken.sol": "EchoToken"
+			"contracts/OrpheusToken.sol": "EchoToken"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -374,12 +374,12 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"contracts/EchoToken.sol": {
-			"keccak256": "0xebfb5f8fb5e540ca0787a9ee2232eb3b08529fee820f74986ab4c0f05f5484b4",
+		"contracts/OrpheusToken.sol": {
+			"keccak256": "0xfd14d6511ffa9b9ebbd61dbd2d730e7ac6912da362ab0941c294341c2291e0b9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://426d4d934c3971d5ef96d67960fed8ee493b1e0b8c018292017043ba565d38d3",
-				"dweb:/ipfs/QmRjqbYfKUadBTAPNNWBW8svP5o7rMDhKyTU95avbv4SJq"
+				"bzz-raw://f252641dc5e4502e9290955e1541640417edb55eede991d56658c8f48775c62e",
+				"dweb:/ipfs/QmXBXNeVfhWjR6VMJSSDEpeXBPGcuwZVT35EkxAmexAK4b"
 			]
 		}
 	},
